@@ -25,14 +25,15 @@ The homework can be found in the following link:\
 [Crab](https://github.com/Bison2001/AP_CSA/blob/main/Crab.java)\
 [Shark](https://github.com/Bison2001/AP_CSA/blob/main/Shark.java)\
 [Main](https://github.com/Bison2001/AP_CSA/blob/main/Main.java)\
-Here is a link to review video:\
-[Object reference review video](https://pan.baidu.com/s/1FWuOoD8EDndmHfbiwwJjmA?pwd=9hfg)
+Here is a link to review video:
+
 
 # String
 Here is the lecture slide:\
 [AP CSA Lecture 5.pdf](https://github.com/Bison2001/AP_CSA/files/10416860/AP.CSA.Lecture.5.pdf)\
 The homework can be found in the following link:\
 [Homework3](https://github.com/Bison2001/AP_CSA/blob/main/Homework3.java)\
-Here is a link to review video:
+Here is a link to review video:\
+[String Lecture recording](https://pan.baidu.com/s/1FWuOoD8EDndmHfbiwwJjmA?pwd=9hfg)
 
 
