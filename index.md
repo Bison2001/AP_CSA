@@ -16,7 +16,6 @@ The homework can be found in the following link:\
 [Test_Particle](https://github.com/Bison2001/AP_CSA/blob/main/Test_Particle.java)\
 Here is a link to review video:\
 [Class_object_review_video](https://pan.baidu.com/s/1bncloDak1PK8jqouMeQU6g?pwd=g8js)\
-提取码: g8js 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 
 # Object Reference
