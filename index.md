@@ -15,7 +15,7 @@ The homework can be found in the following link:\
 [MovingParticle](https://github.com/Bison2001/AP_CSA/blob/main/MovingParticle.java)\
 [Test_Particle](https://github.com/Bison2001/AP_CSA/blob/main/Test_Particle.java)\
 Here is a link to review video:\
-[Class_object_review_video](https://pan.baidu.com/s/1bncloDak1PK8jqouMeQU6g?pwd=g8js)\
+[Class_object_review_video](https://pan.baidu.com/s/1bncloDak1PK8jqouMeQU6g?pwd=g8js)
 
 
 # Object Reference
