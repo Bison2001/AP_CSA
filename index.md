@@ -20,7 +20,7 @@ Here is a link to review video:
 # String
 Here is the lecture slide:\
 [AP CSA Lecture 5.pdf](https://github.com/Bison2001/AP_CSA/files/10416860/AP.CSA.Lecture.5.pdf)\
-Here is a link to review video:\\
+Here is a link to review video:\
 
 The homework can be found in the following link
 
