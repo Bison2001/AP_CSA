@@ -5,7 +5,7 @@ Here is the lecture slide:\
 [AP CSA Lecture 0.pdf](https://github.com/Bison2001/AP_CSA/files/10416863/AP.CSA.Lecture.0.pdf)\
 [AP CSA lecture 1.pdf](https://github.com/Bison2001/AP_CSA/files/10416864/AP.CSA.lecture.1.pdf)\
 The homework can be found in the following link:\
-[Link](https://github.com/Bison2001/AP_CSA/blob/main/Homework1.java)
+[Homework1](https://github.com/Bison2001/AP_CSA/blob/main/Homework1.java)
 
 
 # Class and Object
