@@ -25,7 +25,8 @@ The homework can be found in the following link:\
 [Crab](https://github.com/Bison2001/AP_CSA/blob/main/Crab.java)\
 [Shark](https://github.com/Bison2001/AP_CSA/blob/main/Shark.java)\
 [Main](https://github.com/Bison2001/AP_CSA/blob/main/Main.java)\
-Here is a link to review video:
+Here is a link to review video:\
+[Object reference review video](https://pan.baidu.com/s/1khSs0RsdB4EGwXf2pY-ezw?pwd=9usa)
 
 
 # String
