@@ -37,4 +37,14 @@ The homework can be found in the following link:\
 Here is a link to review video:\
 [String Lecture recording](https://pan.baidu.com/s/1FWuOoD8EDndmHfbiwwJjmA?pwd=9hfg)
 
+# Integer, Double, and Math class.
+Here is the lecture slides:\
+[Lecture6.pdf](https://github.com/Bison2001/AP_CSA/files/10531187/Lecture6.pdf)\
+The home work can be found in the following link:\
+..\
 
+# Array
+Here is the lecture slides:\
+[Lecture7.pdf](https://github.com/Bison2001/AP_CSA/files/10531190/Lecture7.pdf)
+The home work can be found in the following link:\
+..\
