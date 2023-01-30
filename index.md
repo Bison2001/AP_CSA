@@ -41,10 +41,10 @@ Here is a link to review video:\
 Here is the lecture slides:\
 [Lecture6.pdf](https://github.com/Bison2001/AP_CSA/files/10531187/Lecture6.pdf)\
 The homework can be found in the following link:\
-[homework5](https://github.com/Bison2001/AP_CSA/blob/main/homework5.java)\
+[homework5](https://github.com/Bison2001/AP_CSA/blob/main/homework5.java)
 
 # Array
 Here is the lecture slides:\
 [Lecture7.pdf](https://github.com/Bison2001/AP_CSA/files/10531190/Lecture7.pdf)
 The homework can be found in the following link:\
-[homework6](https://github.com/Bison2001/AP_CSA/blob/main/homework6.java)\
+[homework6](https://github.com/Bison2001/AP_CSA/blob/main/homework6.java)
