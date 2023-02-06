@@ -5,6 +5,7 @@ Here is the lecture material:\
 [Lecture1](https://github.com/Bison2001/AP_CSA/blob/main/Lecture1)\
 [Lecture2](https://github.com/Bison2001/AP_CSA/blob/main/Lecture2)\
 The homework can be found in the following link:\
+[Homework0](https://github.com/Bison2001/AP_CSA/blob/main/HW0)
 [Homework1](https://github.com/Bison2001/AP_CSA/blob/main/HW1)
 
 
