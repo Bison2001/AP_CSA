@@ -1,16 +1,16 @@
 Welcome to Bison's Website for AP CSA!
 
 # Basic Syntax
-Here is the lecture slide:\
-[AP CSA Lecture 0.pdf](https://github.com/Bison2001/AP_CSA/files/10416863/AP.CSA.Lecture.0.pdf)\
-[AP CSA lecture 1.pdf](https://github.com/Bison2001/AP_CSA/files/10416864/AP.CSA.lecture.1.pdf)\
+Here is the lecture material:\
+[Lecture1](https://github.com/Bison2001/AP_CSA/blob/main/Lecture1)\
+[Lecture2](https://github.com/Bison2001/AP_CSA/blob/main/Lecture2)\
 The homework can be found in the following link:\
 [Homework1](https://github.com/Bison2001/AP_CSA/blob/main/HW1)
 
 
 # Class and Object
-Here is the lecture slide:\
-[AP_CSA_CLASSOBJECT_REVIEW1.pdf](https://github.com/Bison2001/AP_CSA/files/10416862/AP_CSA_CLASSOBJECT_REVIEW1.pdf)\
+Here is the lecture material:\
+[Lecture3](https://github.com/Bison2001/AP_CSA/blob/main/Lecture3)\
 The homework can be found in the following link:\
 [Homework2](https://github.com/Bison2001/AP_CSA/blob/main/HW2)\
 Here is a link to review video:\
@@ -18,8 +18,8 @@ Here is a link to review video:\
 
 
 # Object Reference
-Here is the lecture slide:\
-[lecture4_annotated.pdf](https://github.com/Bison2001/AP_CSA/files/10416861/lecture4_sunny_annotated.pdf)\
+Here is the lecture material:\
+[Lecture4](https://github.com/Bison2001/AP_CSA/blob/main/Lecture4)\
 The homework can be found in the following link:\
 [Homework3](https://github.com/Bison2001/AP_CSA/blob/main/HW3)\
 Here is a link to review video:\
@@ -27,27 +27,27 @@ Here is a link to review video:\
 
 
 # String
-Here is the lecture slide:\
-[AP CSA Lecture 5.pdf](https://github.com/Bison2001/AP_CSA/files/10416860/AP.CSA.Lecture.5.pdf)\
+Here is the lecture material:\
+[Lecture5](https://github.com/Bison2001/AP_CSA/blob/main/Lecture5)\
 The homework can be found in the following link:\
 [Homework4](https://github.com/Bison2001/AP_CSA/blob/main/HW4)\
 Here is a link to review video:\
 [String Lecture recording](https://pan.baidu.com/s/1FWuOoD8EDndmHfbiwwJjmA?pwd=9hfg)
 
 # Integer, Double, and Math class.
-Here is the lecture slides:\
-[Lecture6.pdf](https://github.com/Bison2001/AP_CSA/files/10531187/Lecture6.pdf)\
+Here is the lecture material:\
+[Lecture6](https://github.com/Bison2001/AP_CSA/blob/main/Lecture6)\
 The homework can be found in the following link:\
 [Homework5](https://github.com/Bison2001/AP_CSA/blob/main/HW5)
 
 # Array
-Here is the lecture slides:\
-[Lecture7.pdf](https://github.com/Bison2001/AP_CSA/files/10531190/Lecture7.pdf)
+Here is the lecture material:\
+[Lecture7](https://github.com/Bison2001/AP_CSA/blob/main/Lecture7)\
 The homework can be found in the following link:\
 [Homework6](https://github.com/Bison2001/AP_CSA/blob/main/HW6)
 
 # Inheritance
 Here is the lecture material:\
-[Lecture8](https://github.com/Bison2001/AP_CSA/blob/main/Lecture8)
+[Lecture8](https://github.com/Bison2001/AP_CSA/blob/main/Lecture8)\
 The homework can be found in the following link:\
-[Homework6](https://github.com/Bison2001/AP_CSA/blob/main/HW7)
+[Homework7](https://github.com/Bison2001/AP_CSA/blob/main/HW7)
