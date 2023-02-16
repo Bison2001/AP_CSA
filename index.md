@@ -1,5 +1,4 @@
 Welcome to Bison's Website for AP CSA!
-
 # Basic Syntax
 Here is the lecture material:\
 [Lecture1](https://github.com/Bison2001/AP_CSA/blob/main/Lecture1)\
@@ -52,3 +51,24 @@ Here is the lecture material:\
 [Lecture8](https://github.com/Bison2001/AP_CSA/blob/main/Lecture8)\
 The homework can be found in the following link:\
 [Homework7](https://github.com/Bison2001/AP_CSA/blob/main/HW7)
+
+# Abstraction and Interface:
+Here is the lecture material:\
+[Lecture9](https://github.com/Bison2001/AP_CSA/blob/main/Lecture89)\
+Starting from this lecture we are going to use the following website for practice:\
+[CodingBat](https://codingbat.com/java)\
+We will start from String-2 section, and solve 3 problems per day.
+
+# ArrayList
+Here is the reading assignment:\
+[List Reading](https://www.geeksforgeeks.org/list-interface-java-examples/?ref=lbp)\
+[ArrayList Reading](https://www.geeksforgeeks.org/arraylist-in-java/?ref=lbp)
+
+# 2-D Array
+This is not covered yet.
+
+# Recursion
+This is not covered yet.
+
+# Use Terminal and Git (optional but useful)
+This is not covered yet.
