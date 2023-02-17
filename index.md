@@ -54,10 +54,12 @@ The homework can be found in the following link:\
 
 # Abstraction and Interface:
 Here is the lecture material:\
-[Lecture9](https://github.com/Bison2001/AP_CSA/blob/main/Lecture89)\
+[Lecture9](https://github.com/Bison2001/AP_CSA/blob/main/Lecture9)\
 Starting from this lecture we are going to use the following website for practice:\
 [CodingBat](https://codingbat.com/java)\
-We will start from String-2 section, and solve 3 problems per day.
+We will start from String-2 section, and solve 3 problems per day.\
+This is the multiple choice homework:
+[Inheritance and Abstraction MCQ](https://github.com/Bison2001/AP_CSA/blob/main/MCQ/inheritance_mcq.pdf)
 
 # ArrayList
 Here is the reading assignment:\
