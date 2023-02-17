@@ -67,6 +67,7 @@ Here is the reading assignment:\
 [ArrayList Reading](https://www.geeksforgeeks.org/arraylist-in-java/?ref=lbp)
 
 # 2-D Array
+Here is the reading assignment:\
 [2D Array Reading](https://www.geeksforgeeks.org/multidimensional-arrays-in-java/?ref=lbp)
 
 # Recursion
