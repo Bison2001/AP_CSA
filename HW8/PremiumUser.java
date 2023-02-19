@@ -1,6 +1,6 @@
-public class StandardUser extends User{
-
-    public StandardUser(String userName) {
+public class PremiumUser extends User{
+    
+    public PremiumUser(String userName) {
         // This is written for you, you should understand why
         super(userName);
     }

@@ -6,27 +6,32 @@ public class ChatRoom{
     List<String> log;
 
     public ChatRoom() {
-        this.user_list = new ArrayList<User>();
-        this.log = new ArrayList<String>();
+        // Initialize to arraylist
     }
 
     public void addUser(User u) {
-        this.user_list.add(u);
+        // TODO:
+        
     }
 
     public void removeUser(User u) {
-        this.user_list.remove(u);
+        // TODO:
     }
 
     public void addLog(User u, String message) {
-        this.log.add(u.getName() + ": " + message);
+        // TODO:
     }
 
     public void showLog() {
-        System.out.println("The followings are chat history: ");
-        for (String s : log) {
-            System.out.println(s);
+        // TODO:
+    }
+
+    public void showUser() {
+        System.out.println("The followings are users in the room: ");
+        for (User u : this.user_list) {
+            System.out.print(u.getName() + " ");
         }
+        System.out.println();
     }
 
 

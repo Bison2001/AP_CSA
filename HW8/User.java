@@ -3,28 +3,29 @@ public abstract class User {
     public ChatRoom user_room;
 
     public User(String userName) {
-        this.userName = userName;
+        // TODO:
     }
 
     public String getName() {
-        return this.userName;
+        // TODO:
+        return "";
     }
 
     public ChatRoom getRoom() {
-        return this.user_room;
+        // TODO:
+        return new ChatRoom();
     }
 
     public void JoinChatRoom(ChatRoom room) {
-        room.addUser(this);
-        this.user_room = room;
-        System.out.println(this.userName + " Join room successful!");
+        // TODO:
     }
 
     public void QuitChatRoom() {
-        this.user_room.removeUser(this);
-        System.out.println(this.userName + " Leave the room");
+        // TODO:
 
     }
 
     public abstract void SendRandomMessage();
+
+    public abstract void SendMessage(String message);
 }
