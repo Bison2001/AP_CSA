@@ -64,13 +64,13 @@ This is the multiple choice homework:\
 # ArrayList
 Here is the reading assignment:\
 [List Reading](https://www.geeksforgeeks.org/list-interface-java-examples/?ref=lbp)\
-[ArrayList Reading](https://www.geeksforgeeks.org/arraylist-in-java/?ref=lbp)
+[ArrayList Reading](https://www.geeksforgeeks.org/arraylist-in-java/?ref=lbp)\
+The homework can be found in the following link:\
+[Homework8](https://github.com/Bison2001/AP_CSA/blob/main/HW8)
 
 # 2-D Array
 Here is the reading assignment:\
-[2D Array Reading](https://www.geeksforgeeks.org/multidimensional-arrays-in-java/?ref=lbp)\
-The homework can be found in the following link:\
-[Homework8](https://github.com/Bison2001/AP_CSA/blob/main/HW8)
+[2D Array Reading](https://www.geeksforgeeks.org/multidimensional-arrays-in-java/?ref=lbp)
 
 # Recursion
 This is not covered yet.
