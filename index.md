@@ -68,7 +68,9 @@ Here is the reading assignment:\
 
 # 2-D Array
 Here is the reading assignment:\
-[2D Array Reading](https://www.geeksforgeeks.org/multidimensional-arrays-in-java/?ref=lbp)
+[2D Array Reading](https://www.geeksforgeeks.org/multidimensional-arrays-in-java/?ref=lbp)\
+The homework can be found in the following link:\
+[Homework8](https://github.com/Bison2001/AP_CSA/blob/main/HW8)
 
 # Recursion
 This is not covered yet.
