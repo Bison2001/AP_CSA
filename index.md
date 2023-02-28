@@ -7,6 +7,7 @@ Welcome to Bison's Website for AP CSA!
 - Please complete reading assignment each time before the class (optional but very useful).
 - Please complete homework on time each time after the class.
 - Please DO NOT distribute course material with the instructor's permission.
+- Important information about this year's [APCSA](https://apstudents.collegeboard.org/courses/ap-computer-science-a/assessment)
 
 # Basic Syntax and Operator
 Here are some useful readings:\
