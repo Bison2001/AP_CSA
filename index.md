@@ -2,12 +2,12 @@ Welcome to Bison's Website for AP CSA!
 
 # Course Setup
 - We are going to use VsCode to write java code. You can download VsCode and Java by following this [instruction](https://github.com/Bison2001/AP_CSA/blob/main/Java_Installation_instruction.pdf).
-- We will main rely on this textbook for multiple choice homework questions and course content.
+- We will main rely on this [textbook](https://github.com/Bison2001/AP_CSA/files/10845839/book.pdf) for multiple choice homework questions and course content.
 - We will use the following website for coding practice in some cases. [CodingBat](https://codingbat.com/java)
 - Please complete reading assignment each time before the class (optional but very useful).
-- Please complete homework on time each time after the class.
-- Please DO NOT distribute course material with the instructor's permission.
-- Important information about this year's [APCSA](https://apstudents.collegeboard.org/courses/ap-computer-science-a/assessment)
+- Please complete homework on time each time after the class. (homework may be different from that on the website)
+- Please DO NOT distribute course material without the instructor's permission.
+- Important information about this year's [APCSA](https://apstudents.collegeboard.org/courses/ap-computer-science-a/assessment).
 
 # Basic Syntax and Operator
 Here are some useful readings:\
