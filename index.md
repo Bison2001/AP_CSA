@@ -9,6 +9,10 @@ Welcome to Bison's Website for AP CSA!
 - Please DO NOT distribute course material without the instructor's permission.
 - Important information about this year's [APCSA](https://apstudents.collegeboard.org/courses/ap-computer-science-a/assessment).
 
+# Practice Question
+[Multiple Choice](https://github.com/Bison2001/AP_CSA/blob/main/MCQ)\
+[Free Response](https://github.com/Bison2001/AP_CSA/blob/main/FRQ)
+
 # Basic Syntax and Operator
 Here are some useful readings:\
 [Basic Syntax](https://www.geeksforgeeks.org/java-basic-syntax/?ref=lbp)\
@@ -52,6 +56,8 @@ The homework can be found in the following link:\
 Here is a link to review video:\
 [Class_object_review_video](https://pan.baidu.com/s/1bncloDak1PK8jqouMeQU6g?pwd=g8js)
 
+# Method and Scope
+material not ready yet
 
 # Object Reference
 Here is the lecture material:\
@@ -110,6 +116,9 @@ Here is the reading assignment:\
 [List Reading](https://www.geeksforgeeks.org/list-interface-java-examples/?ref=lbp)\
 [ArrayList Reading](https://www.geeksforgeeks.org/arraylist-in-java/?ref=lbp)\
 [2D Array Reading](https://www.geeksforgeeks.org/multidimensional-arrays-in-java/?ref=lbp)
+
+Here is the lecture material:\
+[Lecture10](https://github.com/Bison2001/AP_CSA/blob/main/Lecture10)
 
 The homework can be found in the following link:\
 [Homework8](https://github.com/Bison2001/AP_CSA/blob/main/HW8)
