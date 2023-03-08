@@ -22,7 +22,8 @@ The only difference is that I name the fodler `TEST`
 
 ## Step 6
 Click the icon circled by red line to create a new file
-![image](https://user-images.githubusercontent.com/77051146/223618425-af928b97-6789-4b05-a411-d827fedf99c2.png)
+![62dc2a184988b8bbd05c1fb78930dff](https://user-images.githubusercontent.com/77051146/223623372-9bf75956-a070-4e54-abdc-4ac6cd750439.jpg)
+
 
 ## Step 7
 Now you can name the file. Here I called it `Anything.java`
