@@ -2,6 +2,7 @@ Welcome to Bison's Website for AP CSA!
 
 # Course Setup
 - We are going to use VsCode to write java code. You can download VsCode and Java by following this [instruction](https://github.com/Bison2001/AP_CSA/blob/main/Java_Installation_instruction.pdf).
+- Please read this [post](https://github.com/Bison2001/AP_CSA/blob/main/software_tutorial_1.md) before you begin your first homework.
 - We will main rely on this [textbook](https://github.com/Bison2001/AP_CSA/files/10845839/book.pdf) for multiple choice homework questions and course content.
 - We will use the following website for coding practice in some cases. [CodingBat](https://codingbat.com/java)
 - Please complete reading assignment each time before the class (optional but very useful).
