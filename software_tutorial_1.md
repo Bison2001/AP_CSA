@@ -83,6 +83,8 @@ You can use `//` before the line of code to let Java ignore the this line
 
 In this case, 5 will be print out.
 
+## Any red line produced by vscode indicates compile error
+Please address all red lines before you run your code.
 
-
-
+# Other notice
+**PLEASE CREATE A NEW FOLDER EACH TIME YOU DO A NEW HOMEWORK!!!**
