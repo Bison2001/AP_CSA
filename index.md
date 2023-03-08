@@ -44,6 +44,10 @@ Here is the lecture material:\
 The homework can be found in the following link:\
 [Homework1](https://github.com/Bison2001/AP_CSA/blob/main/HW1)
 
+# Method and Scope
+Here is the lecture material:\
+[Method_scope](https://github.com/Bison2001/AP_CSA/blob/main/Method_scope.pdf)
+
 # Class and Object
 Here are some useful readings:\
 [Method](https://www.geeksforgeeks.org/methods-in-java/?ref=lbp)
@@ -56,9 +60,6 @@ The homework can be found in the following link:\
 
 Here is a link to review video:\
 [Class_object_review_video](https://pan.baidu.com/s/1bncloDak1PK8jqouMeQU6g?pwd=g8js)
-
-# Method and Scope
-material not ready yet
 
 # Object Reference
 Here is the lecture material:\
