@@ -61,6 +61,9 @@ The homework can be found in the following link:\
 Here is a link to review video:\
 [Class_object_review_video](https://pan.baidu.com/s/1bncloDak1PK8jqouMeQU6g?pwd=g8js)
 
+**Here is a really important review note:**\
+[class and object review note](https://github.com/Bison2001/AP_CSA/blob/main/AP_CSA_CLASSOBJECT_REVIEW1.pdf)
+
 # Object Reference
 Here is the lecture material:\
 [Lecture4](https://github.com/Bison2001/AP_CSA/blob/main/Lecture4)
@@ -70,6 +73,9 @@ The homework can be found in the following link:\
 
 Here is a link to review video:\
 [Object reference review video](https://pan.baidu.com/s/1khSs0RsdB4EGwXf2pY-ezw?pwd=9usa)
+
+**Here is a really important review note:**\
+[object reference review note](https://github.com/Bison2001/AP_CSA/blob/main/object_reference_review_note.pdf)
 
 
 # String
