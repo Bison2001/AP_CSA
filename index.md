@@ -76,6 +76,8 @@ Here is a link to review video:\
 
 **Here is a really important review note:**\
 [object reference review note](https://github.com/Bison2001/AP_CSA/blob/main/object_reference_review_note.pdf)
+[object reference ultimate review note](https://github.com/Bison2001/AP_CSA/blob/main/OBJECT_REFERENCE_ultimate_review.pdf)
+
 
 
 # String
